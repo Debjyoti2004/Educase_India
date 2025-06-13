@@ -10,7 +10,7 @@ Follow these simple steps to set up and run the project locally.
 - Node.js (v16 or above recommended)
 - npm (Node Package Manager)
 
-### 📦 Installation
+###  Installation
 
 Clone the repository and install the dependencies:
 
