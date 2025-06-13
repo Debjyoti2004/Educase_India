@@ -26,7 +26,5 @@ npm run dev
 Your application should now be running at **http://localhost:5173**
 
 
-### Live link
-```sh
-https://educase-india-5hji.onrender.com
-```
+###Live link **https://educase-india-5hji.onrender.com**
+
